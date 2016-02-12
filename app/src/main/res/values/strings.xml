@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationApiTest</string>
+
+    <string name="error_dialog_fragment">error_google_api</string>
+    <string name="btn_find_location">Find location</string>
+    <string name="btn_reset">Reset</string>
+    <string name="text_result_default">Location result will be appeared here.</string>
+</resources>
